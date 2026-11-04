@@ -88,6 +88,11 @@ Podle Wix Help Center lze obchod nastavit zdarma, ale **přijímat platby jde a�
 - Slugy (URL) zatím neměnit, aby nevznikly nefunkční odkazy. Před přejmenováním uložit
   zálohu původních názvů.
 
+## Čeká na majitele
+
+- Povolit síť pro `static.wixstatic.com` (na Macu přes claude.ai/code, na iPadu nastavení nejde otevřít).
+- Odpověď: 3× prasopál 9 cm / 111 g (`prasopál-13`, `-3`, `-1`) jsou různé kameny, nebo duplikát?
+
 ## Deník rozhodnutí
 
 - 2026-11-04: Hlavní web je KURFÜRST CO., s.r.o. (235 produktů). Předplatné až po předělávce.
