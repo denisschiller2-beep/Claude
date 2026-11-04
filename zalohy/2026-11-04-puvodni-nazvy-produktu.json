@@ -1,0 +1,33 @@
+{
+  "_popis": "Záloha původních názvů produktů před přejmenováním 4. 11. 2026. Klíč = původní název (přesně, včetně mezer na konci), hodnota = slugy (URL) produktů, které ho měly. Pro vrácení: najít produkty podle slugu a nastavit jim původní název.",
+  "site_id": "4e547b0e-3546-40c0-9085-36e85fccbe29",
+  "format_noveho_nazvu": "Minerál – Lokalita · největší rozměr cm, hmotnost",
+  "puvodni_nazvy": {
+    "Srdce z karneolu": ["srdce-z-karneolu-1", "srdce-z-karneolu"],
+    "Srdce z křišťálu": ["srdce-z-křišťálu-2", "srdce-z-křišťálu"],
+    "Srdce z růženínu": ["srdce-z-růženínu-5", "srdce-z-růženínu-4", "srdce-z-růženínu-3", "srdce-z-růženínu-2", "srdce-z-růženínu-1", "srdce-z-růženínu"],
+    "Kalcit, apofylit & stilbit ": ["kalcit-apofylit-stilbit-2", "kalcit-apofylit-stilbit-1"],
+    "Tanzanit": ["tanzanit-6", "tanzanit-2", "tanzanit-1"],
+    "Tanzanit ": ["tanzanit-3", "tanzanit"],
+    "Labradorit": ["labradorit-27", "labradorit-26", "labradorit-22", "labradorit-21", "labradorit-20", "labradorit-19", "labradorit-17", "labradorit-16", "labradorit-15", "labradorit-14", "labradorit-13", "labradorit-12", "labradorit-10", "labradorit-8", "labradorit-7", "labradorit-6", "labradorit-5", "labradorit-4", "labradorit-3", "labradorit-2", "labradorit"],
+    "Prasopál": ["prasopál-11", "prasopál-34", "prasopál-33", "prasopál-32", "prasopál-31", "prasopál-29", "prasopál-28", "prasopál-27", "prasopál-23", "prasopál-22", "prasopál-21", "prasopál-19", "prasopál-17", "prasopál-16", "prasopál-15", "prasopál-10", "prasopál-9", "prasopál-7", "prasopál-6", "prasopál-5", "prasopál-4", "prasopál-2", "prasopál"],
+    "Rubín v Zoisitu": ["rubín-v-zoisitu-4", "rubín-v-zoisitu-22"],
+    "Rubín v zoisitu": ["rubín-v-zoisitu-26", "rubín-v-zoisitu-41", "rubín-v-zoisitu-39", "rubín-v-zoisitu-37", "rubín-v-zoisitu-33", "rubín-v-zoisitu-32", "rubín-v-zoisitu-31", "rubín-v-zoisitu-30", "rubín-v-zoisitu-29", "rubín-v-zoisitu-28", "rubín-v-zoisitu-25", "rubín-v-zoisitu-23", "rubín-v-zoisitu-20", "rubín-v-zoisitu-18", "rubín-v-zoisitu-13", "rubín-v-zoisitu-12", "rubín-v-zoisitu-10", "rubín-v-zoisitu-6", "rubín-v-zoisitu-5", "rubín-v-zoisitu-2"],
+    "Turmalín": ["turmalín-4", "turmalín-2"],
+    "Růženín": ["růženín-4", "růženín"],
+    "Fluorit": ["fluorit-4", "fluorit-34", "fluorit-33", "fluorit-32", "fluorit-30", "fluorit-29", "fluorit-27", "fluorit-26", "fluorit-25", "fluorit-23", "fluorit-22", "fluorit-21", "fluorit-20", "fluorit-18", "fluorit-15", "fluorit-14", "fluorit-13", "fluorit-7", "fluorit-6", "fluorit-5", "fluorit-1", "fluorit"],
+    "Chrysopras": ["chrysopras-5", "chrysopras-3", "chrysopras"],
+    "Modrý chalcedon": ["modrý-chalcedon-6", "modrý-chalcedon-4", "modrý-chalcedon-3", "modrý-chalcedon-2"],
+    "Ametyst": ["ametyst-69", "ametyst-66", "ametyst-65", "ametyst-61", "ametyst-54", "ametyst-46", "ametyst-33", "ametyst-30", "ametyst-29", "ametyst-26", "ametyst-21", "ametyst-20", "ametyst-17", "ametyst-16", "ametyst-12", "ametyst-8", "ametyst-6", "ametyst-5", "ametyst-1", "ametyst"],
+    "Akvamarín": ["akvamarín-11", "akvamarín-10", "akvamarín-8", "akvamarín-7", "akvamarín-5", "akvamarín-2"],
+    "Lapis lazuli": ["lapis-lazuli-13", "lapis-lazuli-12", "lapis-lazuli-10", "lapis-lazuli-7", "lapis-lazuli-6", "lapis-lazuli-5", "lapis-lazuli-2", "lapis-lazuli-1"],
+    "Lapis lazuli - koule": ["lapis-lazuli-koule-2", "lapis-lazuli-koule-1", "lapis-lazuli-koule"],
+    "Azurit + Malachit": ["azurit-malachit-2", "azurit-malachit"],
+    "Akvapras - Zimbabwe": ["akvapras-zimbabwe-27", "akvapras-zimbabwe-24", "akvapras-zimbabwe-23", "akvapras-zimbabwe-22", "akvapras-zimbabwe-21", "akvapras-zimbabwe-20", "akvapras-zimbabwe-19", "akvapras-zimbabwe-18", "akvapras-zimbabwe-17", "akvapras-zimbabwe-16", "akvapras-zimbabwe-15", "akvapras-zimbabwe-14", "akvapras-zimbabwe-13", "akvapras-zimbabwe-12", "akvapras-zimbabwe-10", "akvapras-zimbabwe-8", "akvapras-zimbabwe-6", "akvapras-zimbabwe-4", "akvapras-zimbabwe-1"]
+  },
+  "nezmeneno": {
+    "prasopál-35": "chybí rozměry i hmotnost v popisu",
+    "prasopál-13, prasopál-3, prasopál-1": "stejné údaje 9 cm / 111 g, čeká na potvrzení majitele",
+    "15 pletených náramků": "řeší se zvlášť podle barvy provázku"
+  }
+}
