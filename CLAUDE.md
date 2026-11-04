@@ -35,7 +35,8 @@ Podle Wix Help Center lze obchod nastavit zdarma, ale **přijímat platby jde a�
 
 ## Pravidla spolupráce
 
-1. Komunikace **česky**. U otázek vždy vysvětlit *proč* a v souvislostech.
+1. Komunikace **česky**. **Odpovědi stručně, jen důležité info** (majitel nechce číst dlouhé texty).
+   „Proč“ vysvětlit jednou větou, jen když je to potřeba.
 2. **Nic se nepublikuje na živý web bez schválení majitele.** Claude připraví, pošle náhled
    a majitel schválí. Hromadné e-maily (newsletter) odesílá vždy majitel.
 3. Data (produkty, blog, SEO, kontakty) se mění přes **Wix API**. Vzhled a rozložení se mění
