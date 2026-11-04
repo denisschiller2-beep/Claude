@@ -54,6 +54,8 @@ Podle Wix Help Center lze obchod nastavit zdarma, ale **přijímat platby jde a�
 
 ## Plán (roadmapa)
 
+**Platí varianta A (viz Deník):** nejdřív vánoční minimum (body 3, část 6 a 5), pak redesign přes zimu.
+
 1. **Audit** webu: struktura stránek, mobilní zobrazení, rychlost, SEO, produkty (produkty hotové).
 2. **Návrh nového vzhledu** → schválení → realizace v editoru (důraz na mobil).
 3. **Produkty**: unikátní názvy, delší popisy, SEO titulky a alt texty; nové minerály ze skladu
@@ -64,6 +66,23 @@ Podle Wix Help Center lze obchod nastavit zdarma, ale **přijímat platby jde a�
 6. **Marketing**: Google Search Console + Merchant Center, Instagram, reklamy, newsletter.
    Reklamy až po spuštění plateb, jinak se platí za návštěvy, které nemohou nakoupit.
 
+### Přejmenování produktů: rozbor (4. 11. 2026)
+
+- Popisy kamenů mají jednotnou strukturu `Lokalita: … Rozměry (cm - š-v-h): … Hmotnost (g): …`,
+  takže unikátní název jde sestavit automaticky u **176 ze 193** duplicitních produktů.
+- Navržený formát: `Minerál – Lokalita · největší rozměr cm, hmotnost` (čeká na schválení).
+- Bez dat (nutný vstup majitele): 15 pletených náramků (popis bez rozměrů), `prasopál-35`
+  (prázdné rozměry i hmotnost), `tanzanit-1` (chybí hmotnost).
+- Podezření na omylem zdvojený produkt: 3× „Prasopál“ se stejnými údaji 9 cm / 111 g.
+- Nejednotné lokality (Tanzania/Tanzanie, Mundara/Mundarara mine, Pakistan/Pákistán, Mexico…)
+  → sjednotit česky.
+- Nekonzistence v názvech: „Tanzanit “ a „Kalcit, apofylit & stilbit “ s mezerou na konci,
+  „Rubín v Zoisitu“ vs. „Rubín v zoisitu“.
+- Slugy (URL) zatím neměnit, aby nevznikly nefunkční odkazy. Před přejmenováním uložit
+  zálohu původních názvů.
+
 ## Deník rozhodnutí
 
 - 2026-11-04: Hlavní web je KURFÜRST CO., s.r.o. (235 produktů). Předplatné až po předělávce.
+- 2026-11-04: Zvolena **varianta A**: rychlá vánoční verze (oprava produktů, SEO, mobil,
+  začátkem prosince předplatné a spuštění prodeje). Velký redesign dotáhneme přes zimu.
