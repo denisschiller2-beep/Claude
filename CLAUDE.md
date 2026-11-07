@@ -43,6 +43,10 @@ Podle Wix Help Center lze obchod nastavit zdarma, ale **přijímat platby jde a�
    v **editoru** přes Claude in Chrome / computer use na Macu majitele.
 4. Před změnou vzhledu nejdřív návrh (barvy, fonty, struktura), po schválení realizace.
 5. Snažit se vždy najít řešení. Když jedna cesta nejde, navrhnout jinou.
+6. **V textech kategorií neuvádět počty kusů ani aktuální sklad** (např. „jeden kus máme z…“).
+   Po prodeji by to mátlo. Lokality jen obecně, přesná lokalita je vždy u produktu.
+7. Texty psát přirozenou češtinou (ne jako překlad), odborně, prodejně, se zajímavostí. Žádné
+   léčivé účinky, jen ověřená fakta. Aktuální verze textů: `texty/navrh-textu-v5.md`.
 
 ## Stav: audit produktů (4. 11. 2026)
 

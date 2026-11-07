@@ -8,6 +8,8 @@ Oproti v4 jsou texty zhruba o polovinu delší. Ke každému minerálu přibylo:
 
 Styl a pravidla zůstaly stejné: přirozená čeština, žádné léčivé účinky a jen ověřená fakta.
 
+**Bez počtů kusů:** texty kategorií neuvádějí počty kusů ani konkrétní skladové zásoby, aby po prodeji nezačaly mást. Obecně říkají, odkud kameny pocházejí. Přesnou lokalitu najde zákazník vždy u konkrétního produktu.
+
 ---
 
 ## TEXTY KATEGORIÍ
@@ -17,7 +19,7 @@ Ametyst je fialová odrůda křemene a mezi kameny jeden z nejoblíbenějších.
 
 Fialovou barvu mu dávají nepatrné příměsi železa. S tvrdostí 7 na Mohsově stupnici je ametyst odolný, takže se hodí do sbírky, na poličku i do šperků. V přírodě tvoří drúzy a geody – duté kameny, které jsou zevnitř vystlané krystaly.
 
-Většina našich ametystů pochází z brazilského státu Rio Grande do Sul. Krystaly tam vyrostly v dutinách čedičových hornin, které vznikly ze sopečné lávy před více než sto miliony let. Největší geody z Brazílie a sousední Uruguaye jsou vyšší než člověk. Menší, štíhlé a velmi lesklé krystaly máme z mexické lokality Las Vigas, kterou sběratelé dobře znají.
+V naší nabídce najdete ametysty z brazilského státu Rio Grande do Sul. Krystaly tam vyrostly v dutinách čedičových hornin, které vznikly ze sopečné lávy před více než sto miliony let. Největší geody z Brazílie a sousední Uruguaye jsou vyšší než člověk. Sběratelé cení také menší, štíhlé a velmi lesklé krystaly z mexické lokality Las Vigas. Přesnou lokalitu uvádíme vždy u konkrétního kamene.
 
 **Zajímavost:** Ještě v 18. století patřil ametyst k nejdražším drahým kamenům a cenil se podobně jako rubín nebo safír. Zlevnil až v 19. století, kdy se v Brazílii objevila obrovská naleziště. Ametysty spolu s jaspisy a dalšími polodrahokamy zdobí také stěny Svatováclavské kaple v pražské katedrále sv. Víta. Takto ji nechal vyzdobit Karel IV. Oblibě se ametyst těšil i v církvi a tradičně se zasazoval do biskupských prstenů.
 
@@ -117,7 +119,7 @@ Fluorit, česky kazivec, patří k nejbarevnějším minerálům. Bývá fialov�
 
 Chemicky jde o fluorid vápenatý. Tvoří krychlové a osmistěnné krystaly a snadno se štípe podle rovných ploch, takže z něj lze odštípnout i pravidelný osmistěn. Jeho tvrdost je 4 – fluorit je jedním z deseti vzorových minerálů Mohsovy stupnice tvrdosti. Vzniká hlavně v rudních žilách, kde krystalizuje z horkých roztoků.
 
-Naše fluority pocházejí z Pákistánu, Mexika, Maroka, Konga a USA. U nás se fluorit těžil například na Moldavě v Krušných horách nebo v Harrachově.
+Fluority v naší nabídce pocházejí z různých nalezišť po celém světě, přesnou lokalitu uvádíme vždy u konkrétního kamene. U nás se fluorit těžil například na Moldavě v Krušných horách nebo v Harrachově.
 
 **Zajímavost:** Fluorit dal jméno prvku fluoru i jevu zvanému fluorescence – mnoho fluoritů pod UV lampou svítí. Jeho název pochází z latinského slova *fluere* (téci). Fluorit se totiž odedávna přidával do hutních pecí, aby se ruda snáze tavila. Proslulý je pruhovaný fluorit Blue John z anglického hrabství Derbyshire, ze kterého se už od 18. století vyrábějí vázy a ozdobné předměty.
 
@@ -162,7 +164,7 @@ Barvu mu dává příměs železa. Tvoří šestiboké sloupcovité krystaly a s
 
 Do rodiny berylu patří kromě akvamarínu a smaragdu také zlatožlutý heliodor nebo růžový morganit.
 
-Naše akvamaríny pocházejí převážně z oblasti Gilgit-Baltistán na severu Pákistánu, kde se krystaly těží vysoko v horách Karákóramu. Jeden kus máme z Tanzanie. Mezi další významná naleziště patří Brazílie, Namibie a Madagaskar. Nejcennější sytě modré akvamaríny se v obchodě označují jako Santa Maria, podle brazilského dolu, kde se poprvé našly.
+Krásné akvamaríny se těží v oblasti Gilgit-Baltistán na severu Pákistánu, kde krystaly rostou vysoko v horách Karákóramu. Mezi další významná naleziště patří Brazílie, Namibie, Madagaskar a Tanzanie. Přesnou lokalitu uvádíme vždy u konkrétního kamene. Nejcennější sytě modré akvamaríny se v obchodě označují jako Santa Maria, podle brazilského dolu, kde se poprvé našly.
 
 **Zajímavost:** Největší broušený akvamarín na světě, Dom Pedro, váží přes 10 000 karátů, tedy zhruba dva kilogramy. Byl vybroušen z krystalu nalezeného v Brazílii a dnes je vystaven ve Smithsonově institutu ve Washingtonu. Námořníci kdysi nosili akvamarín jako talisman pro šťastnou plavbu.
 
@@ -179,7 +181,7 @@ Nejslavnější naleziště leží v provincii Badachšán na severovýchodě Af
 
 **Zajímavost:** Už ve starověké Mezopotámii se z lapisu vyráběly šperky a pečetidla. Zdobí také posmrtnou masku faraona Tutanchamona. V renesanci se z něj získávala modrá barva ultramarín, která byla dražší než zlato. Malíři ji proto používali jen na nejdůležitější místa obrazu, nejčastěji na plášť Panny Marie. Levnější umělý ultramarín se začal vyrábět až v 19. století.
 
-Na trhu se často objevují napodobeniny z obarveného jaspisu nebo howlitu. Pravý lapis lazuli obvykle prozradí jemná zlatavá zrníčka pyritu a přirozené nepravidelnosti v barvě. Naše kusy jsou přírodní lapis lazuli z afghánského Badachšánu.
+Na trhu se často objevují napodobeniny z obarveného jaspisu nebo howlitu. Pravý lapis lazuli obvykle prozradí jemná zlatavá zrníčka pyritu a přirozené nepravidelnosti v barvě. Lapis lazuli v naší nabídce je vždy přírodní.
 
 V esoterice je lapis lazuli spojován s moudrostí a pravdou.
 
@@ -192,7 +194,7 @@ Turmalín není jeden minerál, ale celá skupina příbuzných minerálů. Nejb
 
 Vzniká hlavně v pegmatitech, tedy v hrubozrnných žilách v žulových horninách. Jeho barva se mění podle směru pohledu: podél krystalu bývá mnohem tmavší než ze strany.
 
-Naše turmalíny pocházejí z Pákistánu a z brazilské lokality Coronel Murta ve státě Minas Gerais, která patří k nejznámějším nalezištím turmalínu na světě. Černý skoryl se běžně vyskytuje i u nás, například v Dolních Borech na Vysočině.
+Krásné turmalíny pocházejí z Pákistánu nebo z brazilské lokality Coronel Murta ve státě Minas Gerais, která patří k nejznámějším nalezištím turmalínu na světě. Přesnou lokalitu uvádíme vždy u konkrétního kamene. Černý skoryl se běžně vyskytuje i u nás, například v Dolních Borech na Vysočině.
 
 **Zajímavost:** Při zahřátí se turmalín elektricky nabije a začne přitahovat drobné částečky. Holandští obchodníci v 18. století toho využívali a zahřátým turmalínem čistili dýmky od popela. Říkali mu proto *aschentrekker*, tedy vytahovač popela. Nejdražší jsou dnes neonově modré a zelené turmalíny Paraíba, kterým barvu dává měď. V Brazílii je objevili koncem 80. let.
 
@@ -231,7 +233,7 @@ Růženín je růžová odrůda křemene. Pro svou jemnou barvu je odedávna pov
 
 Na rozdíl od ametystu nebo křišťálu tvoří krystaly jen zcela výjimečně. Obvykle se vyskytuje jako celistvá růžová hmota bez krystalových ploch. Barva se pohybuje od téměř bílé až po sytě růžovou. Tvrdost je 7 na Mohsově stupnici.
 
-Nejkvalitnější růženín pochází z Madagaskaru. Další naleziště jsou v Mosambiku, odkud máme část našich kusů, v Namibii a Brazílii. Vzácné krystalované růženíny pocházejí z Brazílie a sběratelé je velmi cení.
+Nejkvalitnější růženín pochází z Madagaskaru. Další naleziště jsou v Mosambiku, Namibii a Brazílii. Přesnou lokalitu uvádíme vždy u konkrétního kamene. Vzácné krystalované růženíny pocházejí z Brazílie a sběratelé je velmi cení.
 
 **Zajímavost:** Co dává růženínu barvu, bylo dlouho záhadou. Podle novějších výzkumů za ni mohou mikroskopická vlákénka minerálu příbuzného dumortieritu. Díky nim se u některých vybroušených kamenů objevuje i vzácná šesticípá hvězda, odborně nazývaná asterismus.
 
@@ -246,7 +248,7 @@ Při výběru se dívejte na sytost růžové barvy a průsvitnost. Nejcennějš
 ### Křišťál
 Křišťál je čirá, bezbarvá odrůda křemene. Tvoří šestiboké krystaly zakončené hrotem. Jeho tvrdost je 7 na Mohsově stupnici.
 
-Krásné krystaly pocházejí například z Brazílie, Madagaskaru, Alp nebo z amerického Arkansasu. Naše kusy jsou z Brazílie a Madagaskaru.
+Krásné krystaly pocházejí například z Brazílie, Madagaskaru, Alp nebo z amerického Arkansasu. Přesnou lokalitu uvádíme vždy u konkrétního kamene.
 
 Křišťál často uzavírá jiné minerály. Zlatavým jehličkám rutilu se říká Venušiny vlasy, zelený chlorit zase uvnitř krystalu někdy vykreslí obrys jeho dřívější podoby, takzvaný fantom.
 
@@ -274,7 +276,7 @@ Vanadinit tvoří drobné šestiboké krystaly sytě červené až oranžové ba
 
 Chemicky jde o vanadičnan olova, který vzniká ve zvětralých svrchních částech olověných ložisek. Je důležitou rudou vanadu – kovu, který se přidává do oceli, aby byla pevnější. Krystaly často sedí na hnědé matečné hornině, se kterou vytvářejí výrazný kontrast. Kvůli obsahu olova je vanadinit na svou velikost překvapivě těžký.
 
-Nejkrásnější vanadinity na světě pocházejí z těžební oblasti Mibladen v Maroku, odkud je i náš kus.
+Nejkrásnější vanadinity na světě pocházejí z těžební oblasti Mibladen v Maroku, odkud pochází i vanadinit v naší nabídce.
 
 **Zajímavost:** Prvek vanad poprvé objevil v roce 1801 mineralog Andrés Manuel del Río, a to právě ve vanadinitu z Mexika. Tehdejší vědci mu ale nevěřili. Znovu ho objevil až v roce 1830 švédský chemik Nils Gabriel Sefström a pojmenoval ho po severské bohyni krásy Vanadís, podle pestrých barev jeho sloučenin.
 
@@ -301,7 +303,7 @@ Známé jsou septárie z Madagaskaru a z amerického Utahu.
 Septárie jsou oblíbenou dekorací na stůl nebo do knihovny a díky své kresbě jsou i pěkným dárkem.
 
 ### Srdíčka
-Srdce z přírodního kamene je osobní dárek, který vydrží celý život. Naše srdce jsou leštěná z pečlivě vybraných kamenů – růženínu, karneolu, křišťálu, oceánského jaspisu, modrého kalcitu, amazonitu, lapisu lazuli nebo septárie.
+Srdce z přírodního kamene je osobní dárek, který vydrží celý život. Naše srdce jsou leštěná z pečlivě vybraných přírodních kamenů.
 
 Každý kámen má jinou barvu i kresbu – růženín je jemně růžový, karneol hraje teplými oranžovými tóny, oceánský jaspis zdobí pestré kruhové obrazce a křišťál je čirý jako led.
 
@@ -353,7 +355,7 @@ Chemicky je to křemičitan vápníku a vanadu. S cavansitem má stejné složen
 ### Sluneční kámen
 Sluneční kámen se třpytí zlatavými a oranžovými jiskřičkami. Je to živec, nejčastěji oligoklas, a jeho třpyt způsobují drobné destičky hematitu, od kterých se odráží světlo. Tomuto jevu se říká aventurescence.
 
-Nachází se například v Norsku, Indii, Tanzanii, Rusku a USA. Náš kus pochází z Tanzanie. Podobně se třpytí i zelený aventurín. Ten je ale odrůdou křemene a třpyt mu dávají šupinky slídy fuchsitu.
+Nachází se například v Norsku, Indii, Tanzanii, Rusku a USA. Tento kus pochází z Tanzanie. Podobně se třpytí i zelený aventurín. Ten je ale odrůdou křemene a třpyt mu dávají šupinky slídy fuchsitu.
 
 **Zajímavost:** V americkém Oregonu se těží sluneční kámen, ve kterém třpyt nevytvářejí destičky hematitu, ale drobné šupinky čisté mědi. Je dokonce oficiálním drahým kamenem tohoto státu.
 
