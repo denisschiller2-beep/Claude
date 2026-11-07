@@ -94,11 +94,25 @@ Podle Wix Help Center lze obchod nastavit zdarma, ale **přijímat platby jde a�
 
 ## Čeká na majitele
 
-- Schválit návrh textů `texty/navrh-textu-2026-11-04.md` (kontrola faktů, texty kategorií, krátké popisy).
 - Odpověď: 3× prasopál 9 cm / 111 g (`prasopál-13`, `-3`, `-1`) jsou různé kameny, nebo duplikát?
+- Doplnit údaje: `prasopál-35` (rozměry, hmotnost), `tanzanit-1` (hmotnost).
+- Potvrdit barvy provázků u fluoritových náramků (purpurový × fialový).
+
+## Stav: texty na webu (7. 11. 2026)
+
+- ✅ Zapsány texty v5 (`texty/navrh-textu-v5.md`, náhled https://claude.ai/artifact/5gDUyycpyzZhWx8DUp54fL):
+  22 kategorií (`description` = 1. odstavec, `richContentDescription` = celý text) a 208 produktů
+  (úvod + Lokalita/Rozměry/Hmotnost + „Na fotografii je přesně tento kus…“).
+- Náramky ponechány s původním textem. Beze změny (jen údaje): Spinel 2×, Zirkon, Voskový opál, Azurit.
+- Akvamaríny: lokalita Balúčistán → **Gilgit-Baltistán, Pákistán** (názvy i popisy).
+- Záloha původních popisů: `zalohy/2026-11-07-popisy-produktu.json`.
+- Od 4. 11. zmizely produkty `labradorit-5`, `akvamarín-7`, `akvamarín-2` (pravděpodobně prodané).
+- Další kroky a kompletní předání: `PREDANI-MAC.md`.
 
 ## Deník rozhodnutí
 
 - 2026-11-04: Hlavní web je KURFÜRST CO., s.r.o. (235 produktů). Předplatné až po předělávce.
 - 2026-11-04: Zvolena **varianta A**: rychlá vánoční verze (oprava produktů, SEO, mobil,
   začátkem prosince předplatné a spuštění prodeje). Velký redesign dotáhneme přes zimu.
+- 2026-11-07: Schváleny a zapsány texty v5. Dlouhé texty v kategoriích, u produktů krátké popisy.
+  Bez léčivých účinků, bez počtů kusů. Práce pokračuje v lokálním Claude Code na Macu.
