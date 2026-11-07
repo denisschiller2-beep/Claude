@@ -75,9 +75,9 @@ Podle Wix Help Center lze obchod nastavit zdarma, ale **přijímat platby jde a�
 - ✅ **Hotovo 4. 11. 2026: přejmenováno 174 produktů** (0 chyb). Záloha původních názvů:
   `zalohy/2026-11-04-puvodni-nazvy-produktu.json`. U `akvapras-zimbabwe-8` je v popisu
   překlep „Lokalita: Akvapras“, v názvu je správně Zimbabwe (popis ještě opravit).
-- Náramky: každý má jiný minerál a **jinou barvu provázku** (info od majitele) → do názvu
-  přidat barvu provázku. Fotky z `static.wixstatic.com` jsou síťovou politikou prostředí
-  blokované, takže barvy buď dodá majitel, nebo povolí doménu v nastavení prostředí.
+- ✅ Náramky (15 duplicitních) mají v názvu barvu provázku, např. „… s růženínem – vínový provázek“
+  (barvy odečteny z fotek 7. 11. 2026). Původní názvy = název bez části za „ – “.
+- Síť: relace běží v osobním prostředí **„Claude“** s povoleným `static.wixstatic.com` (fotky produktů).
 - Bez dat (nutný vstup majitele): 15 pletených náramků (popis bez rozměrů), `prasopál-35`
   (prázdné rozměry i hmotnost), `tanzanit-1` (chybí hmotnost).
 - Podezření na omylem zdvojený produkt: 3× „Prasopál“ se stejnými údaji 9 cm / 111 g.
@@ -90,7 +90,7 @@ Podle Wix Help Center lze obchod nastavit zdarma, ale **přijímat platby jde a�
 
 ## Čeká na majitele
 
-- Povolit síť pro `static.wixstatic.com` (na Macu přes claude.ai/code, na iPadu nastavení nejde otevřít).
+- Schválit návrh textů `texty/navrh-textu-2026-11-04.md` (kontrola faktů, texty kategorií, krátké popisy).
 - Odpověď: 3× prasopál 9 cm / 111 g (`prasopál-13`, `-3`, `-1`) jsou různé kameny, nebo duplikát?
 
 ## Deník rozhodnutí
